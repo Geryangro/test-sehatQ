@@ -1,0 +1,11 @@
+const types = {
+    SET_USER: "SET_USER",
+    SET_DETAIL: "SET_DETAIL",
+    ADD_CART_LIST: "ADD_CART_LIST",
+    DELETE_CART_LIST: "DELETE_CART_LIST",
+    ADD_WISH_LIST: "ADD_WISH_LIST",
+    DELETE_WISH_LIST: "DELETE_WISH_LIST",
+}
+
+export default types
+  

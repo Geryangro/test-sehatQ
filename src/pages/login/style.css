@@ -1,0 +1,26 @@
+.login-section {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+.btn-gmail {
+    padding: 8px 12px;
+    background-color: #BB001B;
+    color: #ffffff;
+    border-radius: 8px;
+    width: 200px;
+}
+
+.btn-facebook {
+    padding: 8px 12px;
+    background-color: #3B5998;
+    color: #ffffff;
+    border-radius: 8px;
+    width: 200px;
+}

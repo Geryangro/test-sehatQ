@@ -1,0 +1,36 @@
+.btn-search {
+    padding: 10px;
+    width: 100%;
+    border-width: 2px;
+    border-radius: 8px;
+}
+
+.btn-search-cstm {
+    padding-left: 35px !important;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    border-width: 2px;
+    border-radius: 8px;
+    margin-left: 20px;
+}
+
+.icon {
+    position: absolute;
+    width: 18px;
+    left: 30px;
+}
+
+.container-float-btn {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: #282c34;
+}
+
+.btn-float {
+    padding: 20px;
+    color: #ffffff;
+}
